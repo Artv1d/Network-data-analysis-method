@@ -6,12 +6,12 @@
 ## Установка
 
 ```bash
-pip install -e .
+pip install -e .```
 
 ## Использование
 
 ```bash
-python -m src.app путь/к/hh.csv --target "ЗП"
+python -m src.app путь/к/hh.csv --target "ЗП"```
 
 
 ## Структура
