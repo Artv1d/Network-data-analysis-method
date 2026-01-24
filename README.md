@@ -6,7 +6,7 @@
 ## Установка
 
 ```bash
-pip install -e .```
+pip install -e .'''
 
 ## Использование
 
