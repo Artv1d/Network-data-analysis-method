@@ -1,7 +1,7 @@
 import sys
 import os
 import argparse
-from pipeline.data_processor import DataProcessor
+from .pipeline.data_processor import DataProcessor
 
 
 def main():
