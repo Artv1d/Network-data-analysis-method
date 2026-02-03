@@ -1,1 +1,1 @@
-Data processing pipeline with Chain of Responsibility pattern.
+__version__ = "0.1.0"
